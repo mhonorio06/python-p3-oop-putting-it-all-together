@@ -1,5 +1,7 @@
 import ipdb
-from lib.book import *
+from lib.book import Book
+
+
 
 cradle = Book("Cradle", 200)
 
